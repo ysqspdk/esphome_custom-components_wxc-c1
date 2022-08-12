@@ -1,0 +1,1 @@
+# esphome_custom-components_wxc-c1
